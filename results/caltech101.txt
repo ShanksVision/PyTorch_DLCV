@@ -1,0 +1,128 @@
+Model Summary
+----------
+
+
+Test Metrics
+------------
+
+Classification Metrics
+----------
+
+                 precision    recall  f1-score   support
+
+          Faces       0.98      0.99      0.98       132
+     Faces_easy       0.99      0.99      0.99       134
+       Leopards       0.98      1.00      0.99        61
+     Motorbikes       1.00      1.00      1.00       233
+      accordion       0.94      0.88      0.91        17
+      airplanes       0.99      0.99      0.99       234
+         anchor       0.69      0.64      0.67        14
+            ant       0.76      0.76      0.76        17
+         barrel       1.00      0.92      0.96        12
+           bass       1.00      0.81      0.90        16
+         beaver       0.80      0.86      0.83        14
+      binocular       0.82      0.82      0.82        11
+         bonsai       0.92      1.00      0.96        44
+          brain       0.88      0.97      0.92        30
+   brontosaurus       0.62      0.62      0.62        13
+         buddha       0.90      0.93      0.92        30
+      butterfly       0.95      0.77      0.85        26
+         camera       0.94      1.00      0.97        15
+         cannon       1.00      0.92      0.96        13
+       car_side       1.00      1.00      1.00        41
+    ceiling_fan       0.73      0.79      0.76        14
+      cellphone       0.90      1.00      0.95        18
+          chair       0.76      0.93      0.84        14
+     chandelier       0.92      0.86      0.89        28
+    cougar_body       0.82      0.78      0.80        18
+    cougar_face       0.85      0.94      0.89        18
+           crab       0.88      0.64      0.74        22
+       crayfish       0.52      0.79      0.63        14
+      crocodile       0.59      0.72      0.65        18
+ crocodile_head       0.79      0.61      0.69        18
+            cup       1.00      0.94      0.97        18
+      dalmatian       1.00      1.00      1.00        17
+    dollar_bill       1.00      1.00      1.00        21
+        dolphin       1.00      0.96      0.98        25
+      dragonfly       0.76      0.83      0.79        23
+electric_guitar       0.84      0.93      0.89        29
+       elephant       0.90      0.78      0.84        23
+            emu       0.87      0.93      0.90        14
+      euphonium       0.93      1.00      0.97        14
+           ewer       0.96      0.93      0.95        29
+          ferry       0.95      0.95      0.95        19
+       flamingo       0.80      0.84      0.82        19
+  flamingo_head       0.73      0.80      0.76        10
+       garfield       0.67      0.67      0.67        15
+        gerenuk       0.92      1.00      0.96        11
+     gramophone       1.00      0.89      0.94        19
+    grand_piano       1.00      1.00      1.00        23
+      hawksbill       1.00      0.97      0.98        30
+      headphone       0.93      0.93      0.93        15
+       hedgehog       0.94      1.00      0.97        17
+     helicopter       0.96      0.81      0.88        32
+           ibis       0.94      0.89      0.91        18
+   inline_skate       0.92      1.00      0.96        11
+    joshua_tree       0.89      0.96      0.93        26
+       kangaroo       0.90      1.00      0.95        18
+          ketch       0.82      0.90      0.86        31
+           lamp       0.65      0.85      0.73        13
+         laptop       1.00      1.00      1.00        18
+          llama       0.96      0.93      0.94        27
+        lobster       0.43      0.75      0.55         4
+          lotus       0.73      0.84      0.78        19
+       mandolin       0.90      0.82      0.86        11
+         mayfly       1.00      0.86      0.92        14
+        menorah       0.88      0.97      0.92        29
+      metronome       1.00      1.00      1.00        13
+        minaret       0.95      0.90      0.93        21
+       nautilus       1.00      0.95      0.98        21
+        octopus       0.50      0.71      0.59         7
+          okapi       0.88      1.00      0.94        15
+         pagoda       0.92      1.00      0.96        12
+          panda       1.00      1.00      1.00         8
+         pigeon       0.91      1.00      0.95        10
+          pizza       1.00      0.95      0.97        19
+       platypus       1.00      0.83      0.91         6
+        pyramid       1.00      0.80      0.89        20
+       revolver       0.97      0.97      0.97        29
+          rhino       0.81      0.93      0.87        14
+        rooster       0.86      0.86      0.86        14
+      saxophone       1.00      0.82      0.90        11
+       schooner       0.83      0.75      0.79        20
+       scissors       0.92      0.92      0.92        12
+       scorpion       1.00      0.81      0.89        31
+      sea_horse       0.74      0.78      0.76        18
+         snoopy       0.62      0.62      0.62         8
+    soccer_ball       1.00      0.95      0.98        22
+        stapler       1.00      1.00      1.00        12
+       starfish       0.92      1.00      0.96        23
+    stegosaurus       0.94      0.80      0.86        20
+      stop_sign       0.95      0.91      0.93        22
+     strawberry       1.00      1.00      1.00         7
+      sunflower       0.94      0.94      0.94        32
+           tick       1.00      0.83      0.91        12
+      trilobite       0.96      0.96      0.96        26
+       umbrella       0.94      0.84      0.89        19
+          watch       1.00      0.97      0.99        69
+    water_lilly       0.67      0.57      0.62        14
+     wheelchair       0.89      1.00      0.94        17
+       wild_cat       1.00      0.80      0.89        10
+  windsor_chair       0.94      0.94      0.94        16
+         wrench       0.75      0.50      0.60        12
+       yin_yang       0.85      1.00      0.92        11
+
+       accuracy                           0.92      2604
+      macro avg       0.89      0.89      0.88      2604
+   weighted avg       0.93      0.92      0.92      2604
+
+Confusion Matrix
+----------
+
+[[131   1   0 ...   0   0   0]
+ [  1 133   0 ...   0   0   0]
+ [  0   0  61 ...   0   0   0]
+ ...
+ [  0   0   0 ...  15   0   0]
+ [  0   0   0 ...   0   6   0]
+ [  0   0   0 ...   0   0  11]]
